@@ -1,0 +1,36 @@
+/* Header */
+
+
+#header_maquette { 
+    background-image: url("../img/header.png"); 
+    min-height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ; 
+
+}
+.police
+{
+    font-size: 152px;
+}
+.white
+{
+    color:white;
+}
+
+nav .navbar-nav li a{
+    color: white !important;
+    }
+
+.navbar-nav > li{
+        
+        padding-left:30px;
+        padding-right:30px;
+      };
+
+#awesomeagency
+{
+    background:rgb(218, 18, 66);
+    min-height: 740px;
+}
