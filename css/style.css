@@ -1,3 +1,15 @@
+/* Autres */
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid
+{
+    padding: 0;
+    margin: 0;
+}
+
 /* Header */
 
 
@@ -32,4 +44,17 @@ nav .navbar-nav li a{
 #awesomeagency
 {
     background:rgb(218, 18, 66);
+}
+
+/* Partie work */
+.work
+{
+    background:rgb(34, 34, 34);
+    min-height:100%;
+    min-width: 100%;
+}
+
+.work2
+{
+    width:100%;
 }
