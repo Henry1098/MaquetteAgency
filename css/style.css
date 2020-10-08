@@ -68,3 +68,26 @@ nav .navbar-nav li a{
     transform: translate(-50%, -50%);
     font-size:38px;
 }
+
+/* Summer campaign */
+
+.red
+{
+    color: red;
+}
+
+/* Section bas */
+#bas
+{
+    background:rgb(218, 18, 66);
+    min-height: 355px;
+}
+
+/* Section Footer */
+
+#footer
+{
+    background: black;
+    color:white;
+    
+}
