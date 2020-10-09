@@ -1,3 +1,4 @@
+
 /* Autres */
 body{
     padding: 0;
@@ -100,8 +101,18 @@ nav .navbar-nav li a{
     background:rgb(218, 18, 66);
     
 }
+.write1
+{
+    margin-left: 215px;
+}
 .write2{
     float:left;
+    margin-right: 20px;
+ }
+ .textwrite2
+ {
+    
+     margin-right: 220px;
  }
 
 /* Section Footer */
@@ -111,4 +122,12 @@ nav .navbar-nav li a{
     background: black;
     color:white;
     
+}
+.rightreserved
+{
+    margin-left: 220px;
+}
+.designedbyacsl
+{
+    margin-right: 215px;
 }
