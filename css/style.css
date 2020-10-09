@@ -1,7 +1,7 @@
+/* Animation de l'effet de souslignage des liens */ 
 .nav-item > a{
     color: #fff;
   text-decoration: none;
-  letter-spacing: 0.15em;
   
   
   display: inline-block;
