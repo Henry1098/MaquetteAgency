@@ -81,8 +81,11 @@ nav .navbar-nav li a{
 #bas
 {
     background:rgb(218, 18, 66);
-    min-height: 355px;
+    
 }
+.write2{
+    float:left;
+ }
 
 /* Section Footer */
 
