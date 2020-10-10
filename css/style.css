@@ -47,10 +47,13 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover ; 
-
+   
 }
 .logos
 {
+    
+    display: flex;
+    flex-direction: row;
     margin-right:15px;
 }
 
@@ -60,7 +63,7 @@ body{
 }
 .police
 {
-    font-size: 152px;
+    font-size: 10rem;
 }
 .white
 {
@@ -156,4 +159,53 @@ nav .navbar-nav li a{
 .designedbyacsl
 {
     margin-right: 215px;
+}
+
+/*Media Queries */
+@media(max-width:770px)
+{
+    .police
+{
+    font-size: 3rem;
+}
+
+.worktext
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.write1
+{
+    margin-left: 0;
+    
+}
+.write2{
+   clear:both;
+      margin-right: 0px;
+ }
+ .textwrite2
+ {
+    
+     margin-right: 0;
+ }
+
+ .rightreserved
+ {
+     margin-left: 0;
+ }
+ .designedbyacsl
+ {
+     margin-right: 0px;
+ }
+ .logos
+ {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+    
+ }
+ .img{
+    margin-right:30px;
+ }
 }
